@@ -148,7 +148,7 @@ i.fa-solid.fa-globe {
     padding-top: 8px;
 }
 
-/* STYLE ARTICLE */
+/* STYLE MAIN */
 
 #corpo{
     background-color: #fff;
@@ -247,8 +247,12 @@ i.fa-solid.fa-globe {
     font-size: 10pt;
 }
 
-i.fa-brands.fa-bitcoin{
+i.fa-brands.fa-bitcoin, i.fas.fa-gamepad, i.fas.fa-truck, i.fas.fa-ticket, i.fas.fa-shop,
+i.fas.fa-microchip, i.fas.fa-face-grin-hearts, i.fas.fa-video, i.fas.fa-circle-dollar-to-slot{
     font-size: 30px;
+}
+#shopee_oficial{
+    width: 35px;
 }
 
 #banner{
